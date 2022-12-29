@@ -1,0 +1,17 @@
+C:\Users\Anjola\source\repos\calculator\bin\Debug\net6.0-windows\calculator.exe
+C:\Users\Anjola\source\repos\calculator\bin\Debug\net6.0-windows\calculator.deps.json
+C:\Users\Anjola\source\repos\calculator\bin\Debug\net6.0-windows\calculator.runtimeconfig.json
+C:\Users\Anjola\source\repos\calculator\bin\Debug\net6.0-windows\calculator.dll
+C:\Users\Anjola\source\repos\calculator\bin\Debug\net6.0-windows\calculator.pdb
+C:\Users\Anjola\source\repos\calculator\obj\Debug\net6.0-windows\calculator.vbproj.AssemblyReference.cache
+C:\Users\Anjola\source\repos\calculator\obj\Debug\net6.0-windows\calculator.Form1.resources
+C:\Users\Anjola\source\repos\calculator\obj\Debug\net6.0-windows\calculator.vbproj.GenerateResource.cache
+C:\Users\Anjola\source\repos\calculator\obj\Debug\net6.0-windows\calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anjola\source\repos\calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfoInputs.cache
+C:\Users\Anjola\source\repos\calculator\obj\Debug\net6.0-windows\calculator.AssemblyInfo.vb
+C:\Users\Anjola\source\repos\calculator\obj\Debug\net6.0-windows\calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Anjola\source\repos\calculator\obj\Debug\net6.0-windows\calculator.dll
+C:\Users\Anjola\source\repos\calculator\obj\Debug\net6.0-windows\refint\calculator.dll
+C:\Users\Anjola\source\repos\calculator\obj\Debug\net6.0-windows\calculator.pdb
+C:\Users\Anjola\source\repos\calculator\obj\Debug\net6.0-windows\calculator.genruntimeconfig.cache
+C:\Users\Anjola\source\repos\calculator\obj\Debug\net6.0-windows\ref\calculator.dll
